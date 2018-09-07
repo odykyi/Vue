@@ -5,13 +5,15 @@ Build Setup
 
 # install dependencies
 
-  npm install
+    npm install
 
 
-# serve with hot reload at http://localhost:4040
-  npm start
+# serve with hot reload at 
+http://localhost:4040
+
+    npm start
 
 
 # build for production with minification
 
-  npm run build
+    npm run build
